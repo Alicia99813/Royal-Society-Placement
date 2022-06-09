@@ -2949,6 +2949,11 @@
      "motivation": "sc:painting",
      "on": "https://cudl.lib.cam.ac.uk/iiif/PH-NRI-00002-00010-00001-00001-00001/canvas/10"
     }],
+    
+    "otherContent": [{
+         	"@type": "sc:AnnotationList",
+         	"@id": "https://alicia99813.github.io/Royal-Society-Placement/annotations/SichuanNew.json"
+  }],
     "@type": "sc:Canvas",
     "width": 6804,
     "@id": "https://cudl.lib.cam.ac.uk/iiif/PH-NRI-00002-00010-00001-00001-00001/canvas/10",
