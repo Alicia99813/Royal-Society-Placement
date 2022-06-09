@@ -1,0 +1,13 @@
+{
+  "id" : "https://Alicia99813.github.io/Royal-Society-Placement/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Alicia99813/Royal-Society-Placement project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Alicia99813.github.io/Royal-Society-Placement/manifests/SichuanPhotoIIF.json",
+    "label" : "SZE - Szechuan (Sichuan) Province 四川省 (NRI2/10/1/1/1)"
+  } ]
+}
