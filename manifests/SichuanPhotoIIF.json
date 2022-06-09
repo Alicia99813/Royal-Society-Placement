@@ -1722,6 +1722,11 @@
         "motivation" : "sc:painting",
         "on" : "https://cudl.lib.cam.ac.uk/iiif/PH-NRI-00002-00010-00001-00001-00001/canvas/1"
       } ],
+      "otherContent": [ {
+        "@id": "http://sas.gdmrdigital.com/annotation/list/cdf2a89db142584992cb77ffe8d31dce.json",
+        "@type": "sc:AnnotationList",
+        "label": "My fantastic annotations"
+    }]
       "@type" : "sc:Canvas",
       "width" : 6804,
       "@id" : "https://cudl.lib.cam.ac.uk/iiif/PH-NRI-00002-00010-00001-00001-00001/canvas/1",
